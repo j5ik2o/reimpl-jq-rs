@@ -8,3 +8,5 @@ edition = "2018"
 [dependencies]
 structopt = "0.3.25"
 argopt = "0.1.1"
+json = "0.12.4"
+jsonpath = "0.1.1"

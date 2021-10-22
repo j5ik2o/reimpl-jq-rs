@@ -1,5 +1,3 @@
-use argopt::cmd;
-
 #[argopt::cmd]
 fn main(
     /// greeting message
