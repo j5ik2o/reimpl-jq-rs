@@ -61,6 +61,6 @@ cargo 1.56.0 (4ed5d137b 2021-10-04)
 
 ### IntelliJのセットアップ
 
-おそらく社内ではIntelliJ Ultimate Editionが事実上標準エディタとなっているため、インストールは不要と思います。
+おそらく社内ではIntelliJ Ultimate Editionが事実上標準IDEとなっているため、インストールは不要と思います。
 万が一インストールが必要な場合は[こちら](https://www.jetbrains.com/ja-jp/idea/)から行ってください。
 
